@@ -7,7 +7,7 @@ library("tm")
 library("SnowballC")
 library("wordcloud")
 library("RColorBrewer")
-
+### this is some comments
 filePath <- "speeches.txt"
 text <- readLines(filePath)
 
